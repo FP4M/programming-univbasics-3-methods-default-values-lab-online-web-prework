@@ -1,1 +1,4 @@
-# Your code here
+meal_choice
+meal_choice_veg1
+meal_choice_veg2
+meal_choice_protein 'meat.'
